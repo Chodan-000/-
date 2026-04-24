@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>联系我</title>
+</head>
+
+<body>
+    <h1>联系我</h1>
+
+    <p>Email: example@test.com</p>
+
+    <a href="index.html">返回首页</a> |
+    <a href="about.html">关于我</a>
+</body>
+</html>
